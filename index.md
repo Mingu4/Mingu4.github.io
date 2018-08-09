@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Mingu's home 
 
-You can use the [editor on GitHub](https://github.com/Mingu4/Mingu4.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Chào mọi người! Mình là Minh Nguyệt, hiện đang sống và học tập tại Thuỵ Điển. Mục đích của mình khi tạo ra Mingu's home là để chia sẻ về cuộc sống cũng như quá trình học tập bên này của mình ở bên này. Rất mong được nhận sự đóng góp và ý kiến của các bạn dành cho Mingu's home của mình! :) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**## Contact me** 
 
-### Markdown
+Các bạn có thể liên hệ mình qua gmail: mimingungu1402@gmail.com 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mingu4/Mingu4.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
